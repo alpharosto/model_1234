@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load the model and the mean/std values
-model_filename = 'decision_tree_model(2).pkl'
+model_filename = 'decision_tree_model.pkl'
 mean_std_filename = 'mean_std_values.pkl.url'
 
 # Add error handling for file loading
